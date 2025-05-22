@@ -1,4 +1,4 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=47F7A0&vCenter=true&width=475&height=25&lines=Hey+there+%F0%9F%91%8B+Welcome+to+Petar's+GitHub!" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=47F7A0&vCenter=true&width=475&height=25&lines=Hey+there+%F0%9F%91%8B+Welcome+to+my+GitHub!" alt="Typing SVG" /></a></p>
 <p align="center">A second year software engineering and IT student at the Faculty of Computer Science and Engineering in Skopje. Interests include building data-intensive applications, efficient backend systems, as well as applying data science and machine learning in business and finance.</p>
 
 <h2></h2>
